@@ -3,4 +3,6 @@
 
 (2) main code : lstm_return_2327.py、lstm_return_3406.py
 
-(3) 書面報告 : alpha_tick_data.pptx
+(3) 書面報告 : alpha_tick_data.pDF
+
+(4) 簡報 : alpha_tick_data.pptx
